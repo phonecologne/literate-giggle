@@ -1,0 +1,5 @@
+// Autocomplete widget
+
+$(function () {
+    'bootStrap'
+}
